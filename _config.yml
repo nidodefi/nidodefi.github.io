@@ -1,0 +1,11 @@
+title: DeFiNido
+email: ""
+description: Pagina oficial de @nidodefi
+url: "https://example.org"
+twitter: nidodefi
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
