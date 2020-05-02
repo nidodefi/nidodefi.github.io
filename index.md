@@ -1,4 +1,6 @@
+<button id="theme-toggle" onclick="modeSwitcher()"></button>
+
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+Información y educación sobre Decentralized Finance(DeFi). Más [información](/about/).
