@@ -4,9 +4,10 @@ title:	Hello World!
 date:	2020-01-01
 author:	Lorem Ipsum
 description: The first post on this website.
-ogimage: opengraphimage.jpeg
-
+ogimage: logo.png
 ---
+
+<button id="theme-toggle" onclick="modeSwitcher()"></button>
 
 Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
 ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
