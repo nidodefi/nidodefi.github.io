@@ -7,8 +7,6 @@ description: Introducción a DeFi.
 ogimage: logo.png
 ---
 
-# Qué es DeFi?
-
 DeFi es un nuevo sistema financiero basado en la tecnología blockchain con el objetivo de ofrecer los mismos productos del sistema existente, pero eliminando muchas de las ineficiencias actuales. Ejemplos de estos servicios incluyen: Pagos, prestamos, créditos, inversiones, derivados, etc.
 
 ## Ventajas sobre la finanza tradicional
