@@ -1,58 +1,50 @@
 ---
 layout: post
-title:	Hello World!
-date:	2020-01-01
-author:	Lorem Ipsum
-description: The first post on this website.
+title:	Qué es DeFi?
+date:	2020-05-10
+author:	DefiNido
+description: Introducción a DeFi.
 ogimage: logo.png
 ---
 
-<button id="theme-toggle" onclick="modeSwitcher()"></button>
+# Qué es DeFi?
 
-Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
-ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
-fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
-facie convicia pharetra; deteriorque tanti.
+DeFi es un nuevo sistema financiero basado en la tecnología blockchain con el objetivo de ofrecer los mismos productos del sistema existente, pero eliminando muchas de las ineficiencias actuales. Ejemplos de estos servicios incluyen: Pagos, prestamos, créditos, inversiones, derivados, etc.
 
-## Serpentis unus est haesisse iam magno maris
+## Ventajas sobre la finanza tradicional
+- Acceso global a servicios financieros. Único requisito es el acceso a Internet.
+- Transparente. DeFi está basado en contratos inteligentes que pueden ser validados por cualquier persona en el blockchain.
+- Menor costo de transacción. No hay empresas de por medio cobrando tarifa por cada transacción.
+- Infinitas posibilidades. Programadores pueden interconectar distintos servicios entre sí para proveer nuevos servicios que no existen en el sistema tradicional.
 
-Phaethontis tangi, Nereides aures. **Parvum fecit**: Non induruit scelus: Tmolo
-herbae, **est cantare numerant**, per. Malum aliis, iste num Pellaeus, mollit
-[rescindere nervi](http://de-spem.com/cum.aspx), umerique profuga raptusque
-maritum stagna. Erubui ad dominus ignibus merito **tria reppulit omnia** enim
-flentes illius: terra. Collemque Aeolon contendite barba, in Iovi adhaesit eadem
-talisque petebamus venter: manes inde sanguine, et.
+## Breve historia
 
-Venerat custos vocabant mi et longo poplite Achillis regem aures communicat
-sedebat [mille](http://perque-ad.com/). Haut pugnando Aurora populique grates
-simul, sub columque iubar. Caput postquam contigit remos coeamus, eadem
-Nonacrina [Iove](http://ea-oculi.org/proceres.html): nullo dira levatus aevi
-Thetis **ultima ecce ceu**.
+Bitcoin puede ser considerado el primer producto DeFi ya que introdujo la posibilidad de usar criptomonedas como método de pago en cualquier lugar del mundo sin restricciones gubernamentales. 
 
-1. Lucem merces inmeritam Romanique orbis extemplo ira
-2. Quas vocat vidit clipeum
-3. Undis Iphide exercetque taurum ut quondam leoni
-4. Tantum litora matris Enipeus
+Después de Bitcoin, empezaron a surgir muchas criptomonedas y con ello un nuevo servicio de intercambio.
 
-## Decimo illud
+Inicialmente, la compra y venta de estas monedas era sólo posible a través de un intermediario centralizado. Entre estos proveedores están: Coinbase, Binance, Bitfinex, Kraken, entre otros.
 
-At iunxisse [multi](http://times.com/) Dryope, advocat omnes, iam et aequorei
-[lentus](http://tamenrecepit.io/fistula-trachine). Auguste despectus ultoresque
-dum fumantia Peleu temptata tacitaque ostendens tamen alii maturior datura
-audiat venti notas. Quae ad Dictaei conligit, fata dum Hecaten quem, dat.
-Colebat armat nutrimen veniensque premens inmurmurat, [oculos volentem
-in](http://loquicurvantem.net/penetralibus-sine) tamen: fuga ora differt
-criminibusque? Cui tollensque Lacedaemoniumque turbida Scylaceaque ducitur
-posse; in telum crus, suas seu tempore tacto semel et semina, lydia?
+El problema con estas plataformas es que funcionan muy parecido a un banco del sistema tradicional. Para poder usar sus servicios tienes que transferirle tus criptomonedas a las carteras que están en su control. Esto incrementa el riesgo de pérdida ya que muchos intermediarios centralizados han sido hackeados por millones a lo largo de la historia. Entre ellos estan: Mt.Gox, Bitstamp, Bithumb y muchos otros.
 
-Nostrasque meruique nunc perdidimus: ter ungues thalamoque nullus. Quid teneri,
-mole Telethusa non; res **dixit**, est nullos iungere; an velis postquam, *et*.
-Non herbae: sub Stygias morsibus.
+Estas plataformas centralizadas también necesitan tener mucha información sobre sus usuarios ya que están reguladas por los gobiernos en dónde están basadas. Esto implica que dependiendo de la región del usuario tendrá acceso limitado a estos distintos servicios.
 
-1. Vacuae fassoque vidit
-2. Honorque exhortor hamis renuente parsque status
-3. Abstinet sparsis
+## Surge DeFi
+Ethereum expandió estos servicios exponencialmente cuando introdujo los contratos inteligentes. Estos programas nunca pueden ser cambiados cuando son desplegados en el Blockchain. 
 
-Petiit conterit **quo iussit** nomen opes tum passus, iam **possemque fixit**
-spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor *terrae* cognita
-multas ille talaria nec ligno delubraque in **rursus**.
+Los contratos permiten implementar nuevos servicios financieros a través de aplicaciones descentralizadas, creando así un nuevo sistema financiero descentralizado (DeFi).
+ 
+ Éste sistema se rige por las reglas y lógica escrita en los contratos inteligentes. 
+ ### Lista de varios servicios que corren actualmente en DeFi:
+- Intercambio: Uniswap, Balancer, Curve
+- Monedas Estables: Dai, USDC, sUSD, USDT 
+- Prestamos/créditos: MakerDao, Compound, Aave
+- Inversiones: TokenSets, Melonport 
+- Derivados: DyDx, Opyn, Hegic, FutureSwap
+- Seguros: Opyn, NexusMutual
+
+Esta lista es solo una pequeña muestra ya que nuevos servicios son publicados cada semana. En un año, el valor total de ETH en DeFi sobrepasó mil millones de dólares y continua creciendo. 
+
+Las posibilidades son infinitas y en este blog espero compartir más información para que se puedan mantener al día sobre ésta nueva revolución financiera.
+
+Como siempre, sean cautelosos y hagan su propia investigación antes de invertir dinero en alguno de estos nuevos servicios.
